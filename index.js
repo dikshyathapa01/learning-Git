@@ -1,0 +1,1 @@
+console.log("This is version 1.0.0 oof the index.js file");
